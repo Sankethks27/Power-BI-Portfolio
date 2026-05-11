@@ -1,7 +1,7 @@
 # 📊 Power BI Portfolio
 
 <p align="center">
-  <img src="https://github.com/Sankethks27/IBM-Data-Science-Portfolio/blob/main/IBM%20Data%20Science%20Professional%20Certificate/IBM%20Data%20Science%20Professional%20Certificate.jpg" width="650">
+  <img src="https://github.com/Sankethks27/Power-BI-Portfolio/blob/main/Power%20BI%20for%20Data%20Analytics%20Certificate/Power%20BI%20for%20Data%20Analytics%20Certificate.png" width="650">
 </p>
 
 <p align="center">
