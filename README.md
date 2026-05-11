@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Sankethks27/IBM-Data-Science-Portfolio/blob/main/IBM%20Data%20Science%20Professional%20Certificate/IBM%20Data%20Science%20Professional%20Certificate%20-%20Credly.png" width="220">
+  <img src="https://github.com/Sankethks27/Power-BI-Portfolio/blob/main/Power%20BI%20for%20Data%20Analytics%20Certificate/LinkedIn%20Learning%20Logo.png" width="220">
 </p>
 
 ## Table of Contents
