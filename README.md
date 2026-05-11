@@ -14,7 +14,7 @@ Welcome to my comprehensive portfolio documenting the completion of the **Power 
 
 ## 🏆 Certificate Details
 
-- **Certificate**: Power BI for Data Analytics
+- **Certificate**: Power BI for Data Analytics Certificate
 - **Issued By**: LinkedIn Learning
 - **Skills Acquired**: Tables, Cards, Slicers, Buttons & Bookmarks, Visualizations, Drill Through, Power Query, Advanced Transformations, Append Vs Merge, M Language, DAX, Explicit Measures, Parameters and Dashboard Development
 
@@ -73,7 +73,7 @@ Welcome to my comprehensive portfolio documenting the completion of the **Power 
   - Example dashboards
   - Course images and assets
 
-## How to Run Power BI Files
+## 🚀 **Getting Started**
 
 ### 📋 Prerequisites
 - **Power BI Desktop** (Free) - Download from [Microsoft Power BI](https://powerbi.microsoft.com/desktop/)
@@ -87,3 +87,20 @@ Welcome to my comprehensive portfolio documenting the completion of the **Power 
 - **[job_postings_monthly.xlsx](Data/job_postings_monthly.xlsx)**: Multi-sheet Excel file organized by month
 - **[monthly_files/](Data/monthly_files/)**: Individual Excel files for each month
 - **[star_schema_files/](Data/star_schema_files/)**: Normalized database structure (4 separate tables)
+
+## 🤝🏿 **Contributing**
+
+This portfolio represents my personal learning journey through the Power BI for Data Analytics Certificate. While this is primarily a showcase of my work, I welcome discussions, feedback, and collaborations on power bi projects.
+
+## 📧 **Contact**
+
+**Sanketh Ks**  
+- GitHub: [@Sankethks27](https://github.com/Sankethks27)
+- LinkedIn: [Sanketh Ks](https://www.linkedin.com/in/sanketh-ks-181962273/)
+- Email: sankethks27@gmail.com
+
+---
+
+⭐ **If you find this portfolio helpful or inspiring, please give it a star!** ⭐
+
+---
