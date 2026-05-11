@@ -1,15 +1,4 @@
-<<<<<<< HEAD
-# 📊 Power BI for Data Analytics - Full Course
-
-Data Nerds! This repo contains all the files needed to follow along my free course: [Power BI for Data Analytics]()
-[![Power BI for Data Analytics](/Resources/images/0_PowerBI_Thubmnail.png)]()
-
-> ⚠️ **Download from Google Drive, not GitHub!** Some files are missing here due to GitHub's 100MB limit. Get complete course files from [**Google Drive**](https://lukeb.co/powerbi-files)
-
-## Team Members 👥
-**🙋🏼‍♂️ Course Leader:** [Luke Barousse](https://www.linkedin.com/in/luke-b)  
-**🎬 Course Producer:** [Kelly Adams](https://www.linkedin.com/in/kellyjianadams)  
-**📺 Video Editor:** [Brannon Linder](https://www.linkedin.com/in/brannonlinder)
+# 📊 Power BI Portfolio
 
 ## Table of Contents
 
@@ -73,23 +62,6 @@ Data Nerds! This repo contains all the files needed to follow along my free cour
 - **Power BI Service Account** (Free tier available) - For publishing and sharing dashboards
 - **Microsoft Excel** (Optional) - For viewing data files
 
-### 🚀 Getting Started
-
-#### 1. Download Power BI Desktop
-- Visit [Microsoft Power BI Desktop download page](https://powerbi.microsoft.com/desktop/)
-- Download and install the latest version (free)
-- Sign in with your Microsoft account when prompted
-
-#### 2. Open Course Files
-1. Navigate to the desired module folder (e.g., `1_Grand_Tour/`, `2_Visualizations/`, etc.)
-2. Double-click any `.pbix` file to open it in Power BI Desktop
-3. If prompted, click "Enable Content" to allow data connections
-
-#### 3. Working with Data Files
-- **CSV Files**: Can be opened directly in Power BI Desktop using "Get Data" → "Text/CSV"
-- **Excel Files**: Use "Get Data" → "Excel Workbook" to import
-- **Monthly Files**: Import individual files or use folder import for batch processing
-
 ### 📁 File Types Explained
 
 #### Data Files
@@ -97,37 +69,3 @@ Data Nerds! This repo contains all the files needed to follow along my free cour
 - **[job_postings_monthly.xlsx](Data/job_postings_monthly.xlsx)**: Multi-sheet Excel file organized by month
 - **[monthly_files/](Data/monthly_files/)**: Individual Excel files for each month
 - **[star_schema_files/](Data/star_schema_files/)**: Normalized database structure (4 separate tables)
-
-### 🔧 Troubleshooting
-
-#### Common Issues
-- **"Enable Content" Dialog**: Always click "Enable Content" when opening `.pbix` files
-- **Data Source Errors**: If data connections fail, check the file paths in Power Query
-- **Missing Visuals**: Ensure all required data fields are loaded and relationships are established
-
-#### Data Connection Issues
-- If you encounter data source errors:
-  1. Go to **Home** → **Transform Data** → **Data Source Settings**
-  2. Update the file paths to match your local directory structure
-  3. Click "Change Source" and navigate to the correct data files
-
-#### Performance Tips
-- **Large Datasets**: Use filters in Power Query to reduce data size
-- **Refresh Issues**: Close and reopen Power BI Desktop if refresh fails
-- **Memory**: Close other applications if Power BI runs slowly
-
-### 💡 Pro Tips
-- **Save Frequently**: Power BI Desktop files can be large - save often
-- **Use Bookmarks**: Create bookmarks to save different views of your data
-- **Test Interactions**: Always test slicers, filters, and drill-through features
-- **Performance**: Use measures instead of calculated columns when possible
-- **Documentation**: Use the "About" section in your reports to document data sources and methodology
-
-## Found a Typo? Want to Contribute?
-- If you find an error in this repo, please feel free to make a pull request by:
-    - Forking the repo
-    - Making any changes
-    - Submitting a pull request
-=======
-# Power-BI-Portfolio
->>>>>>> 3be1db4fda86d9184f5f5ba82375a628255e3e75
