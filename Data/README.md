@@ -2,14 +2,6 @@
 
 This folder contains 2024 data on data job postings scraped from Google.
 
-## Background
-
-I've been collecting data on data job postings since 2022. I've been using a bot to scrape the data from Google, which come from a variety of sources. 
-
-You can find the full dataset at my app [datanerd.tech](https://datanerd.tech).
-
-> [Serpapi](https://serpapi.com/) has kindly supported my work by providing me access to their API. Tell them I sent you and get 20% off paid plans.
-
 ## Data Files
 
 The datasets used in this course are a subset of the full dataset for 2024 and come in a variety of forms:
