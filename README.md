@@ -8,6 +8,16 @@
   <img src="https://github.com/Sankethks27/Power-BI-Portfolio/blob/main/Power%20BI%20for%20Data%20Analytics%20Certificate/LinkedIn%20Learning%20Logo.png" width="220">
 </p>
 
+## 🎯 Overview
+
+Welcome to my comprehensive portfolio documenting the completion of the **Power BI for Data Analytics Certificate**! This repository covers complete power bi workflow, interactive visualization and dashboard.
+
+## 🏆 Certificate Details
+
+- **Certificate**: Power BI for Data Analytics
+- **Issued By**: LinkedIn Learning
+- **Skills Acquired**: Tables, Cards, Slicers, Buttons & Bookmarks, Visualizations, Drill Through, Power Query, Advanced Transformations, Append Vs Merge, M Language, DAX, Explicit Measures, Parameters and Dashboard Development
+
 ## Table of Contents
 
 ### 📚 Course Modules
