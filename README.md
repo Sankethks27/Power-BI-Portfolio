@@ -1,4 +1,4 @@
-# 📊 Power BI Portfolio
+# 📊 Power BI for Data Analytics Portfolio
 
 <p align="center">
   <img src="https://github.com/Sankethks27/Power-BI-Portfolio/blob/main/Power%20BI%20for%20Data%20Analytics%20Certificate/Power%20BI%20for%20Data%20Analytics%20Certificate.png" width="650">
