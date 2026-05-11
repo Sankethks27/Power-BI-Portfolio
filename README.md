@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 Power BI for Data Analytics - Full Course
 
 Data Nerds! This repo contains all the files needed to follow along my free course: [Power BI for Data Analytics]()
@@ -127,3 +128,6 @@ Data Nerds! This repo contains all the files needed to follow along my free cour
     - Forking the repo
     - Making any changes
     - Submitting a pull request
+=======
+# Power-BI-Portfolio
+>>>>>>> 3be1db4fda86d9184f5f5ba82375a628255e3e75
